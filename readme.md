@@ -1,14 +1,14 @@
 # BRAZILIAN GASOLINE ANALYTICS (BGA)
 This application combines basic knowledge of python and data analysis, with the aim of delivering to everyone an application that contains analysis of the variation in gasoline prices in Brazil between 2001 and 2019.
 
-DEVELOPED BY ESQUIZANDO, THIS SITE, IN ITS PRIMARY VERSION (MVP), AIMS TO PRESENT TO THE PUBLIC A SIMPLE AND OBJECTIVE TOOL WHICH MAKES DATA READING AND DELIVERY EQUIVALENT TO A VALID DOCUMENT NUMBER.
+DEVELOPED BY ESQUIZANDO, THIS APPLICATION, IN ITS PRIMARY VERSION (MVP), AIMS TO PRESENT TO THE PUBLIC A SIMPLE AND OBJECTIVE TOOL THAT ANALYZES GASOLINE DATA IN BRAZIL BETWEEN 2000 AND 2019.
 
 ## What is Brazilian Gasoline Analytics (BGA) all about?
 This is the analysis of average gasoline prices in Brazil during the years 2000 to 2019, in an attempt to study its evolution.
 
 Source: https://transparencia.petrobras.com.br/dados-abertos
 
-## The present problem intends to study the gasoline database in Brazil through 17 questions:
+## The present problem intends to study the gasoline database in Brazil through 8 questions:
 1. What are the values contained in both bases and what are their appearance frequencies?
 2. What are the appearances of common gasoline and its variations in times between 2000 and 2010?
 3. What is the average gasoline resale price in August 2008?
